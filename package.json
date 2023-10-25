@@ -1,6 +1,6 @@
 {
   "name": "@blackbazar/common",
-  "version": "1.0.10",
+  "version": "1.0.9",
   "description": "",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
@@ -9,8 +9,7 @@
   ],
   "scripts": {
     "build": "npm run clean && tsc",
-    "clean": "del ./build/*",
-    "pub": "git add . && git commit -m \"Updates\" && npm version patch && npm run build && npm publish"
+    "clean": "del ./build/*"
   },
   "keywords": [],
   "author": "",
