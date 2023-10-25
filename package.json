@@ -9,7 +9,7 @@
   ],
   "scripts": {
     "build": "npm run clean && tsc",
-    "clean": "del ./build/*"
+    "clean": "del-cli ./build/*"
   },
   "keywords": [],
   "author": "",
