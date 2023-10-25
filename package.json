@@ -9,7 +9,8 @@
   ],
   "scripts": {
     "build": "npm run clean && tsc",
-    "clean": "del-cli ./build/*"
+    "clean": "del ./build/*",
+    "rimraf": "./node_modules/rimraf/bin.js"
   },
   "keywords": [],
   "author": "",
