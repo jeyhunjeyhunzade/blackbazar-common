@@ -1,6 +1,6 @@
 {
   "name": "@blackbazar/common",
-  "version": "1.0.12",
+  "version": "1.0.9",
   "description": "",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "del-cli": "5.0.0",
+    "del-cli": "^5.1.0",
     "typescript": "^5.2.2"
   },
   "dependencies": {
