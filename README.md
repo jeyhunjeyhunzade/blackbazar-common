@@ -21,17 +21,9 @@
 ## 📖 Table of Contents
 - [📖 Table of Contents](#-table-of-contents)
 - [📍 Overview](#-overview)
-- [📦 Features](#-features)
 - [📂 repository Structure](#-repository-structure)
-- [⚙️ Modules](#modules)
-- [🚀 Getting Started](#-getting-started)
-    - [🔧 Installation](#-installation)
-    - [🤖 Running blackbazar-common](#-running-blackbazar-common)
-    - [🧪 Tests](#-tests)
-- [🛣 Roadmap](#-roadmap)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
-- [👏 Acknowledgments](#-acknowledgments)
 
 ---
 
